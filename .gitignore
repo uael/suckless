@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!.gitmodules
+!Makefile
+!*.patch
+!dwm.config.h
